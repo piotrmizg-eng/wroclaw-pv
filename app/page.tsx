@@ -25,7 +25,7 @@ export default function Home() {
   <a href="#uslugi" className="hover:text-cyan-300 transition">Usługi</a>
   <a href="#realizacje" className="hover:text-cyan-300 transition">Realizacje</a>
   <a href="#proces" className="hover:text-cyan-300 transition">Proces</a>
-  <a href="https://wroclaw-klimatyzacja.pl" target="_blank" className="hover:text-cyan-300 transition">Klimatyzacja</a>
+  <a href="https://wroclaw-klima.pl" target="_blank" className="hover:text-cyan-300 transition">Klimatyzacja</a>
   <a href="https://wroclaw-pompyciepla.pl" target="_blank" className="hover:text-cyan-300 transition">Pompy ciepła</a>
   <a href="#kontakt" className="hover:text-cyan-300 transition">Kontakt</a>
 </nav>
